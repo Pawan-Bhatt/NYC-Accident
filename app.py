@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # Loading the data 
 
 DATE_TIME = 'date/time'
-DATA_URL = ("/Users/pawan/OneDrive/Desktop/Accidental/motor.csv")
+DATA_URL = ("motor.csv")
 
 
 st.title("Motor Vehicle Collisions in New York City")
