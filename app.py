@@ -1,5 +1,5 @@
 # Importing libraries
-!pip3 install plotly
+pip3 install plotly
 import streamlit as st
 import pandas as pd
 import numpy as np
